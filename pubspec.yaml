@@ -1,4 +1,4 @@
-name: flutter_video_compress_for_android
+name: flutter_video_compress
 description: Generate a new file by compressed video, and provide metadata. Get video thumbnail from a video path, supports JPEG/GIF. To reduce app size not using FFmpeg in IOS.
 version: 0.3.7+8
 author: Tenkai Ruri<babichan@outlook.com>
