@@ -21,6 +21,6 @@ A new flutter plugin project.
   s.xcconfig = { 'OTHER_LDFLAGS' => '-framework Regift' }
   s.vendored_frameworks = 'Regift.framework'
   
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = '12.0'
 end
 
